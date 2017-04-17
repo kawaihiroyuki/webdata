@@ -13,6 +13,7 @@ image = "headers/getting-started.png"
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 
 +++
+テスト日本語です。はい。
 
 The Academic framework enables you to easily create a beautifully simple personal or academic website using the [Hugo](https://gohugo.io) static site generator.
 

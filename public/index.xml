@@ -55,6 +55,8 @@
       <guid>https://example.com/post/getting-started/</guid>
       <description>
 
+&lt;p&gt;テスト日本語です。はい。&lt;/p&gt;
+
 &lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 
 &lt;p&gt;Key features:&lt;/p&gt;
